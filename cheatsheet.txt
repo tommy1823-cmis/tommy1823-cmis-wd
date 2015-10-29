@@ -1,0 +1,7 @@
+ls = list
+cd filename = moving between folders
+cd = back to home folder
+cd .. = back to mother folder
+gedit filename opens files
+git add filename
+git commit -m "comment"
