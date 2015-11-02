@@ -1,0 +1,7 @@
+open terminal (small black icon on the left of chrome)
+cd into repository using command "cd emal1234-cmis"
+git clone using command line that you get from the website and put your server username, password, and your repository link 
+create, edit and save text files using gedit (commands is "gedit textfilename to open and to create a new one") (press save to save)
+git add using command "git add filename"
+git commit using command "git commit -m "brief discription of what you did"
+git push with commad "git push" (you are required to put in your github.com username and password when you enter)
