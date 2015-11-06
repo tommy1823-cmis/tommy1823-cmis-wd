@@ -5,3 +5,8 @@ cd .. = back to mother folder
 gedit filename opens files
 git add filename
 git commit -m "comment"
+sftp username@cmis-hsteacher = sftp
+put filename = to producion server
+put * = everything in folder 
+put *.txt .jpg etc = everything file of that type
+exit = exit sftp
