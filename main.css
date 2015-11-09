@@ -1,4 +1,13 @@
 h1 {
-	color:#660066;
+	color:#66cc66;
 	font-family:"courier new";
+	font-style: italic;
+	border:solid 5px;
+	background-color:#000099;
 }
+h2 {
+	color:#333399;
+	font-family:"courier new";
+	
+}
+	
