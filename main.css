@@ -2,12 +2,33 @@ h1 {
 	color:#66cc66;
 	font-family:"courier new";
 	font-style: italic;
-	border:solid 5px;
-	background-color:#000099;
+	font-size: 50px;
+	border-style: solid;
+	border-color:#660099 #33CC33 #66FF66 #663333;
+	border-width:10px;
+	background-color:#000099 ;
 }
 h2 {
 	color:#333399;
 	font-family:"courier new";
-	
+	font-size: 25px;
+	font-style: oblique;
+	border-style: double;
+	border-color: #FF99FF #CCFF33 #CC0000 #99FF33;
+	border-width: 7px;
+	background-color: #3399CC;
+}
+html {
+	background-color: #3366FF;
+	border-style: solid;
+	border-color: #006633;
+	border-width: 10px;
+}
+p {
+	font-family: Impact,Charcoal, sans-serif;
+	font-size: 20px;
+	border-style: inset;
+	border-color: #669933;
+	border-width: 10px;
 }
 	
