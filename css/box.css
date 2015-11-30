@@ -4,4 +4,53 @@ h1 {
 	padding:5px;
 	border: 10px dotted #339999;
 	margin: 11px;
+	height: 100px;
+}
+main + p {
+	background-color: #3333FF;
+	width: 200px;
+	padding: 20px;
+	border: 10px solid #00FF33;
+	margin: 15px;
+	height: 20px;
+}
+main > p {
+	background-color: #330066;	
+	width: 800px;
+	padding: 20px;
+	border: 5px double #003399;
+	margin: 2px;
+	height: 40px;
+}
+main > h2 {
+	background-color: #CC6666;	
+	width: 500px;
+	padding: 10px;
+	border: 5px solid #66FF66;
+	margin: 5px;
+	height: 20px;
+}
+article > p{
+	background-color: #000099;	
+	width: 900px;
+	padding: 2px;
+	border: 5px solid #003366;
+	margin: 5px;
+	height: 150px;
+}
+article ~ ul{
+	background-color:	
+	width:
+	padding:
+	border: 
+	margin: 
+	height:
+}
+footer {
+	background-color:	
+	width:
+	padding:
+	border: 
+	margin: 
+	height:
 }
