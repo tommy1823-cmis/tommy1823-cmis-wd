@@ -30,7 +30,7 @@ main > h2 {
 	margin: 5px;
 	height: 20px;
 }
-article > p{
+article p{
 	background-color: #000099;	
 	width: 900px;
 	padding: 2px;
@@ -38,19 +38,19 @@ article > p{
 	margin: 5px;
 	height: 150px;
 }
-article ~ ul{
-	background-color:	
-	width:
-	padding:
-	border: 
-	margin: 
-	height:
+article > ul{
+	background-color: #330099;	
+	width: 850px;
+	padding: 15px;
+	border: 4px double #00FF00;
+	margin: 4px;
+	height: 180px;
 }
-footer {
-	background-color:	
-	width:
-	padding:
-	border: 
-	margin: 
-	height:
+footer > p{
+	background-color: #6633CC;	
+	width: 450px;
+	padding: 10px;
+	border: 20px double #660033;
+	margin: 5px;
+	height: 10px;
 }
