@@ -1,7 +1,42 @@
+@import url(https://fonts.googleapis.com/css?family=Oswald);
+@import url(https://fonts.googleapis.com/css?family=Lobster);
+@import url(https://fonts.googleapis.com/css?family=Anton);
 nav{
 	width: 200px;
 	border: solid black 1px;
 	float: left;
+	background-color: #A0A0A0;
+	height: 450px;
+	font-family: 'Anton', sans-serif;
+	color: #FFFFFF;
 }
 main{
-	margin-left: 201px;
+	margin-left: 210px;
+}
+h1{
+	font-family: 'Oswald', sans-serif;
+	background-color: #FF6600;
+	margin: 0px;
+	padding: 0px;
+	height: 40px;
+	padding: 25px;
+	width: 650px;
+}
+html{
+	background-color: #000000;
+}
+p{
+	color: #FFFFFF;
+	width: 500px;
+	font-family: 'Lobster', cursive;
+	font-size: 25px;
+}
+footer{
+	color: #FFFFFF;
+}
+ul{
+	color: #FFFFFF;
+	float: left;
+	margin-right: 50px;
+	
+
