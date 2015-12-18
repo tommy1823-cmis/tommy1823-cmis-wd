@@ -6,7 +6,7 @@ nav{
 	border: solid black 1px;
 	float: left;
 	background-color: #A0A0A0;
-	height: 450px;
+	height: 100px;
 	font-family: 'Anton', sans-serif;
 	color: #FFFFFF;
 }
@@ -22,6 +22,10 @@ h1{
 	padding: 25px;
 	width: 650px;
 }
+h2{
+	font-family:Oswald', sans-serif;
+	color: #FFFFFF;
+}
 html{
 	background-color: #000000;
 }
@@ -30,13 +34,17 @@ p{
 	width: 500px;
 	font-family: 'Lobster', cursive;
 	font-size: 25px;
+	clear: both;
 }
 footer{
 	color: #FFFFFF;
 }
 ul{
 	color: #FFFFFF;
-	float: left;
 	margin-right: 50px;
+}
+img{
+ 	float: right;
+	margin-right: 500px;
 	
 
